@@ -175,10 +175,10 @@ http://watchlive.my.id/sa_dash_vmx/OKTV.mpd
 ===================================iklan
 
 #EXTINF:-1 tvg-id="" tvg-name="Informasi 1" tvg-logo="https://w7.pngwing.com/pngs/806/307/png-transparent-marketing-wi-fi-advertising-business-internet-marketing-text-service-logo.png" group-title="informasi",iklan 2
-https://github.com/dimasexpress/gedang-goreng/raw/main/20230521-2130361.mp4
+https://github.com/NGEFLES/gedanggoreng/raw/main/20230521-2130361.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Informasi 2" tvg-logo="https://www.smart-stb.net/wp-content/uploads/2021/09/logo@2x1.png" group-title="informasi",iklan 1
-https://github.com/dimasexpress/gedang-goreng/raw/main/20230521-2014071.mp4
+https://github.com/NGEFLES/gedanggoreng/raw/main/20230521-2014071.mp4
 
 ========================================================================
 ===LOKAL SERVER 2===========
