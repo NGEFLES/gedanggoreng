@@ -1265,6 +1265,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 --------------------------------------------------------------------------------------------
 
 
+
 =====VOD DRAKOR========
 
 
@@ -3244,10 +3245,6 @@ https://is.gd/o8ddX2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm6WFeKmWIFQKOav_97ox_rudN_EuEUQvtNQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Zombieland Double Tap (2019) No Sub 
 https://is.gd/M1AylC
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSThcBZxt-LmW0hTmVOPBmC5ZGDIj-S-dgPhA&usqp=CAU" group-title="English" tvg-id="HBOComedyEast.us" tvg-name="HBOComedyEast.us", HBO Comedy East
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/wofCBq
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="Sports" tvg-id="AstroCricket.my" tvg-name="AstroCricket.my", Astro Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2504
@@ -3648,57 +3645,6 @@ https://is.gd/BWn0ma
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk5Yzc4NzMtODUwOS00NTdhLTg2MjEtZTkzZjc0ZWE2MzAwXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_UX134_CR0,0,134,196_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Sonic the Hedgehog (2020)
 https://www.googleapis.com/drive/v3/files/1HNEmsRA4KQqIP7Gtt23Yt1qXNsEIlwvn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw" group-title="Malay" tvg-id="" tvg-name="", Astro Go Ruuma
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png" group-title="Malay" tvg-id="" tvg-name="", Go Shop Gaaya
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="Malay" tvg-id="TVAlhijrah.my" tvg-name="TVAlhijrah.my", TV Alhijrah
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2RlMjcyMGQtZTU3OC00NGRlLWExMGEtYjU3ZjUyMDc0NWZmXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_UX134_CR0,0,134,196_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Foreigner (2017)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959736
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="Western" tvg-id="" tvg-name="", Pluto TV Westerns
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/pazhyna/pazhyna1709/pazhyna170900030/85934183-cinema-movie-time-banner-.jpg" group-title="Chinese" tvg-id="" tvg-name="", Douyu TV Movies Chinese 2
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwlXAe2xzx48hxG4xINW8NVliUVhHpR3wuhQ&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Pluto TV Crime Drama
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=350&deviceId=5f31fd1b4c510e00071c3103&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="English" tvg-id="" tvg-name="", RedBox Movie 1
-https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=Redbox
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="English" tvg-id="" tvg-name="", RedBox Movie 2
-https://comedy-redbox.amagi.tv/amRdirect/p=Redbox&subp=RedboxdesktopWebLinux/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="English" tvg-id="" tvg-name="", STIRR Movies
-https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.JCBDvZAT0j3JyCKHazDsLgHaDX&pid=Api&P=0&w=418&h=190" group-title="English" tvg-id="ShowtimeExtremeEast.us" tvg-name="ShowtimeExtremeEast.us", Showtime Extreme East
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/Ly2gFw
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yBMwt78/cinemax-thrillermax.png" group-title="English" tvg-id="ThrillerMaxEast.us" tvg-name="ThrillerMaxEast.us", ThrillerMax East
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/iOkd2y
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dcmMXz8/starz-encore-westerns.png" group-title="Western" tvg-id="StarzEncoreWesternsWest.us" tvg-name="StarzEncoreWesternsWest.us", Starz Encore Westerns West
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/L6Qsx3
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DIY_Network_logo.svg/200px-DIY_Network_logo.svg.png" group-title="Lifestyle & Documentary" tvg-id="DIYNetworkEast.us" tvg-name="DIYNetworkEast.us", DIY Network East
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/4zfOXP
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqE-XyH1284b-GKsADHYCxSOoblummVKD-Vw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", 12 Years A Slave (2013) No Sub
 https://is.gd/sdUZsS
@@ -3763,43 +3709,14 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/The%20Amazing%2
 #EXTINF:-1 tvg-logo="noimage.png" group-title="VOD English" tvg-id="" tvg-name="", The Meg (2018) Select Sub 
 https://is.gd/NbOs8v
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_UX134_CR0,0,134,196_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", SpiderMan No Way Home (2021)
 https://www.googleapis.com/drive/v3/files/1Byyhz8EKBBzb0Jp5s2UdBV2MGE6qaXNA?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://epg4you.com/logos/eurosport2_uk.png" group-title="No group" tvg-id="Eurosport2.fr" tvg-name="Eurosport2.fr", Eurosport 2
-https://is.gd/QwDu9G
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png" group-title="Sports" tvg-id="AstroSuperSport.my" tvg-name="AstroSuperSport.my", Astro SuperSport
-#EXTVLCOPT:http-user-agent=otto-aplikasi
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ott-navigator.my.id/000143-356212-936581/sportifitasku/btsports/master_astro.m3u8?id=assp1
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658" group-title="Sports" tvg-id="BeInSportsXtra1.qa" tvg-name="BeInSportsXtra1.qa", BeIn Sports Xtra 1
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFaQPlEspEWEydzRloF_KEOvqU2jleYQVbQ&usqp=CAU" group-title="Indonesia" tvg-id="" tvg-name="", RCTV
-https://is.gd/TtgblL
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="Sports" tvg-id="SpoTV2.kr" tvg-name="SpoTV2.kr", SpoTV 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h5/NowShowing/30156/s30156_h5_aa.png" group-title="Lifestyle & Documentary" tvg-id="CookingChannel.us" tvg-name="CookingChannel.us", Cooking Channel
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://is.gd/WvU00s
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvglm3dRVVOTCgZYLH4GEZ80UMPz8flZONOA&usqp=CAU" group-title="English" tvg-id="HallmarkMoviesMysteriesEast.us" tvg-name="HallmarkMoviesMysteriesEast.us", Hallmark Movies Mysteries East
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/hOMSdQ
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.magticom.ge/images/channels/MjAxOS8wOS8xOS81ZjQ4ZWIyMS1mMDNmLTQ3OGEtYjY0Zi0yOGU0NjNhNDhhNjBIT0xMWVdPT0RfQlMucG5n.jpg" group-title="English" tvg-id="HollywoodHD.us" tvg-name="HollywoodHD.us", Hollywood HD
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://red.ipfox.org:8080/images/coL8O01xtvBTT6KsjGteDNglmKJ_big.jpg" group-title="VOD English" tvg-id="" tvg-name="", Abduction (2011) No Sub
 https://is.gd/efFUBx
 
@@ -4149,113 +4066,6 @@ http://181.215.178.135:80//movie/kytv/tU7MJd6Zrb/2659.mkv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbwI5WwqW6x8xJ7AGu8tvnuAKxJz6zRW_1WA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Conjuring The Devil Made Me Do It (2021)
 http://admin.nf21.net/go/files/19354
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_small.png" group-title="English" tvg-id="GalaxyPremium.id" tvg-name="GalaxyPremium.id", Galaxy Premium
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-https://akm611a-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/pbskids/images/1/13/1200px-Universal_Kids_2019_Logo.png/revision/latest?cb=20190627191351" group-title="Kids" tvg-id="UniversalKids.us" tvg-name="UniversalKids.us", Universal Kids
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-https://is.gd/O7W8Ok
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LN1VHfp/Spo-tv-home-tv.png" group-title="Sports" tvg-id="" tvg-name="", SpoTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="English" tvg-id="ParamountNetwork.us" tvg-name="ParamountNetwork.us", Paramount Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5056
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="Indian" tvg-id="705" tvg-name="705", Polimer TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/PnzFx8
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="Chinese" tvg-id="300" tvg-name="300", iQIYI HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd?10
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_life_global.png" group-title="English" tvg-id="FoxLife.es(m3u4u)" tvg-name="FoxLife.es(m3u4u)", FoxLife
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/eG1P2T
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="Lifestyle & Documentary" tvg-id="ThePetCollective.us" tvg-name="ThePetCollective.us", The Pet Collective
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=637&deviceId=5bb1ad55268cae539bcedb08&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdHzT8pm/sb.png" group-title="Kids" tvg-id="" tvg-name="", Tom & Jerry HD
-http://iptv.speedhd10.com:8080//live/698237333250315/2045118185/119032.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhwBz7Cw/images-15.png" group-title="Entertainment" tvg-id="" tvg-name="", Vevo HipHop
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png" group-title="Lifestyle & Documentary" tvg-id="716" tvg-name="716", DMAX HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2610
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
-
-#EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_crime_global.png" group-title="English" tvg-id="" tvg-name="", Fox Crime
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-https://is.gd/gNoxJq
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvSWaVgOf6Ejw34X5XueRQcESGu-7apV85QA&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Starz Kids & Family
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://176.57.50.167:25461/live/536416/231244/22924.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5zO6tHeBi439uHF1USGJuwnM3rmhusjG75g&usqp=CAU" group-title="Chinese" tvg-id="" tvg-name="", TVB Classic
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5016
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz6razZZL0UOs8BsGo7OiFdE9ok_PyKlPOFg&usqp=CAU" group-title="Kids" tvg-id="" tvg-name="", Garfield & Friends
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOdq6_4Xq1Pt71FHkWrfXMPH0d3s3_Vk2mUA&usqp=CAU" group-title="English" tvg-id="" tvg-name="", Pluto TV Comedy
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOdq6_4Xq1Pt71FHkWrfXMPH0d3s3_Vk2mUA&usqp=CAU " group-title="English" tvg-id="" tvg-name="", Pluto TV Cult Films
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOdq6_4Xq1Pt71FHkWrfXMPH0d3s3_Vk2mUA&usqp=CAU " group-title="English" tvg-id="" tvg-name="", Pluto TV Drama
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOdq6_4Xq1Pt71FHkWrfXMPH0d3s3_Vk2mUA&usqp=CAU " group-title="English" tvg-id="" tvg-name="", Pluto TV Drama Life
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOdq6_4Xq1Pt71FHkWrfXMPH0d3s3_Vk2mUA&usqp=CAU " group-title="English" tvg-id="" tvg-name="", Pluto TV Fantastic
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOdq6_4Xq1Pt71FHkWrfXMPH0d3s3_Vk2mUA&usqp=CAU " group-title="English" tvg-id="" tvg-name="", Pluto TV Love Stories
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e181520cfa000771ce79/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOdq6_4Xq1Pt71FHkWrfXMPH0d3s3_Vk2mUA&usqp=CAU " group-title="English" tvg-id="" tvg-name="", Pluto TV Romance
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOdq6_4Xq1Pt71FHkWrfXMPH0d3s3_Vk2mUA&usqp=CAU " group-title="English" tvg-id="" tvg-name="", Pluto TV Suspense
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e281b0b8840007324b55/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ4OGJiMWEtNTZjNi00NmU1LTk4NmMtZDY0MTZmNzFlNDFhXkEyXkFqcGdeQXVyMTQyMTMwOTk0._UX185_CR0,0,185,263_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Top Gun : Maverick (2022) No Sub 
-https://is.gd/c7RmXL
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCBiaqMDHAvP--e2TAeM0Uks3Wa0Bi4m_5vg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Top Gun (1986) No Sub 
-https://is.gd/O8VZGo
-
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/M/MV5BOTJhMjhhZDItZTQxMi00NGM3LTliZjYtMjcyMWE2YzYwNTA0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._UX185_CR0,0,185,263_.jpg" group-title="24/7" tvg-id="" tvg-name="", Marvels Movies
-http://line.365tv.xyz:8060/live/552446887000/ZD4BJE5txc/119518.ts
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/ecx.images-amazon.com/images/M/MV5BZTBjYjM3ZjItZTI1MS00ODZhLWFhZDgtODgxMmMzN2JlOTExXkEyXkFqcGdeQXVyNTA4NzY1MzY@._UX185_.jpg?fit=185,185&quality=50&strip=all" group-title="Series" tvg-id="" tvg-name="", Merlin S01E01
 https://www.googleapis.com/drive/v3/files/1OmWx2SJ6TX6SBlS1V6zQhDjbuq5Wraaw?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
