@@ -192,22 +192,22 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/Dp10Ydf/Trans7-hometv.png" group-title="SERVER 2 LOKAL",TRANS 7
+#EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/Dp10Ydf/Trans7-hometv.png" group-title="SERVER 2 LOKAL",1.TRANS 7
 http://watchlive.my.id/sa_dash_vmx/Trans7-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/6NSqzbC/Transtv-hometv.png" group-title="SERVER 2 LOKAL",TRANS TV
+#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/6NSqzbC/Transtv-hometv.png" group-title="SERVER 2 LOKAL",1.TRANS TV
 http://watchlive.my.id/sa_dash_vmx/TransTV-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/3FH3W8G/Indosiar-hometv.png" group-title="SERVER 2 LOKAL",INDOSIAR
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/3FH3W8G/Indosiar-hometv.png" group-title="SERVER 2 LOKAL",1.INDOSIAR
 #http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.ibb.co/BzXmZL7/Sctv-hometv.png" group-title="SERVER 2 LOKAL",SCTV
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.ibb.co/BzXmZL7/Sctv-hometv.png" group-title="SERVER 2 LOKAL",1.SCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.m3u8
@@ -217,37 +217,37 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e6475
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/x5wfDpt/Rcti-hometv.png" group-title="SERVER 2 LOKAL",RCTI
+#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/x5wfDpt/Rcti-hometv.png" group-title="SERVER 2 LOKAL",1.RCTI
 http://watchlive.my.id/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/vkQWBqj/Mnctv-hometv.png" group-title="SERVER 2 LOKAL",MNC TV
+#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/vkQWBqj/Mnctv-hometv.png" group-title="SERVER 2 LOKAL",1.MNC TV
 http://watchlive.my.id/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/9ZBzkBz/Gtv-hometv.png" group-title="SERVER 2 LOKAL",GTV
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/9ZBzkBz/Gtv-hometv.png" group-title="SERVER 2 LOKAL",1.GTV
 http://watchlive.my.id/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="https://i.ibb.co/4j6gH2N/i-News-hometv.png" group-title="SERVER 2 LOKAL",iNEWS
+#EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="https://i.ibb.co/4j6gH2N/i-News-hometv.png" group-title="SERVER 2 LOKAL",1.iNEWS
 http://watchlive.my.id/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="https://i.ibb.co/4j6gH2N/i-News-hometv.png" group-title="SERVER 2 LOKAL",iNEWS+
+#EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="https://i.ibb.co/4j6gH2N/i-News-hometv.png" group-title="SERVER 2 LOKAL",1.iNEWS+
 http://watchlive.my.id/inews/inews.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://i.ibb.co/DKvTJgx/Tvone-hometv.png" group-title="SERVER 2 LOKAL",TV ONE
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://i.ibb.co/DKvTJgx/Tvone-hometv.png" group-title="SERVER 2 LOKAL",1.TV ONE
 http://watchlive.my.id/sa_dash_vmx/TVOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://i.ibb.co/M1jc4r5/Antv-hometv.png" group-title="SERVER 2 LOKAL",ANTV
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://i.ibb.co/M1jc4r5/Antv-hometv.png" group-title="SERVER 2 LOKAL",1.ANTV
 http://watchlive.my.id/lokal/antv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -257,12 +257,12 @@ http://watchlive.my.id/sa_dash_vmx/NetTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://i.ibb.co/7Gr7HJQ/Metrotv-hometv.png" group-title="SERVER 2 LOKAL",METRO TV
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://i.ibb.co/7Gr7HJQ/Metrotv-hometv.png" group-title="SERVER 2 LOKAL",1.METRO TV
 http://watchlive.my.id/sa_dash_vmx/Metro-TV2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="https://i.ibb.co/P5qktn0/Kompastv-hometv.png" group-title="SERVER 2 LOKAL",KOMPAS TV
+#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="https://i.ibb.co/P5qktn0/Kompastv-hometv.png" group-title="SERVER 2 LOKAL",1.KOMPAS TV
 http://watchlive.my.id/sa_dash_vmx/KompasTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
