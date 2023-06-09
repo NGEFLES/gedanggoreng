@@ -133,7 +133,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4e
 https://anon.devds.site/link.php?hash=aHR0cDovL2lwdHZ0cmVlLm5ldDo4MDgwL0YxNzc0NC81b3Q4bkFxdWpJU1o3R2xNZ09uaUdDcUc4aExMajE2Ny8yOTg1NDYK|shareext@mentaritv.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="Local",16 Moji
-http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
+#http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
 
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nusantara_TV_2015.png",Nusantara TV
