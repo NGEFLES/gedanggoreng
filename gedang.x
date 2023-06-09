@@ -169,7 +169,8 @@ http://watchlive.my.id/sa_dash_vmx/VisionPrime.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
 #EXTINF:-14  group-title="Local" tvg-logo="https://i.postimg.cc/T1GDn6mL/Bioskop-Indonesia.png",Bioskop Indonesia
-http://watchlive.my.id/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+#http://watchlive.my.id/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+https://anon.devds.site/link.php?hash=aHR0cDovL2lwdHZ0cmVlLm5ldDo4MDgwL0YxNzc0NC81b3Q4bkFxdWpJU1o3R2xNZ09uaUdDcUc4aExMajE2Ny8yOTg1MTkK|shareext@citrabioskop.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
