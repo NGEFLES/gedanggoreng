@@ -14,7 +14,8 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/02.m3u
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png" group-title="Local",3 Indosiar
 #http://watchlive.my.id/indosiar/197
-http://watchlive.my.id/lokal/indo.m3u8
+#http://watchlive.my.id/lokal/indo.m3u8
+https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-DVgvtt30dME/Tr8p3tqcoOI/AAAAAAAAH-U/TlrVGkQkYNA/s1600/kompas_tv_id.png" group-title="Local",4 Kompas TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -79,7 +80,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d7/LOGO-ANTV-2017.png/revision/latest?cb=20170905192451" group-title="Local",13 ANTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
-https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-TZHHyORLaDk/VNJ9jaX15DI/AAAAAAAAAYk/_ZwdzzPtaMs/s1600/Logo%2BDAAI%2BTV%2BJakarta%2B-%2Banakcemerlang.png" group-title="Local",DAAI TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
