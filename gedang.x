@@ -10,7 +10,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #EXTINF:0 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fb/SCTV_Logo.svg.png/revision/latest?cb=20121226014247" group-title="Local",2 SCTV
 #http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 #http://nonton.wap.sh/id/009.m3u8
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/02.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/02.m3u8
+https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png" group-title="Local",3 Indosiar
 #http://watchlive.my.id/indosiar/197
@@ -68,7 +69,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:0 tvg-logo="https://img.uncyc.org/id/thumb/0/09/INews.png/300px-INews.png" group-title="Local",12 Inews
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
-https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000
 
 #EXTINF:0 tvg-logo="https://d1io3yog0oux5.cloudfront.net/_cdd5ea87a1d8b97db98a193ff659cb9e/mainstcapital/db/Companies/5884/logo_resized.png" group-title="Local",IDX Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -139,7 +141,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4e
 
 #EXTINF:-1 tvg-id="" group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 #https://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
-https://anon.devds.site/link.php?hash=aHR0cDovL2lwdHZ0cmVlLm5ldDo4MDgwL0YxNzc0NC81b3Q4bkFxdWpJU1o3R2xNZ09uaUdDcUc4aExMajE2Ny8yOTg1NDYK|shareext@mentaritv.m3u8
+#https://anon.devds.site/link.php?hash=aHR0cDovL2lwdHZ0cmVlLm5ldDo4MDgwL0YxNzc0NC81b3Q4bkFxdWpJU1o3R2xNZ09uaUdDcUc4aExMajE2Ny8yOTg1NDYK|shareext@mentaritv.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="Local",16 Moji
 #http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
@@ -277,7 +280,8 @@ http://watchlive.my.id/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://i.ibb.co/7Gr7HJQ/Metrotv-hometv.png" group-title="SERVER 2 LOKAL",1.METRO TV
-http://watchlive.my.id/sa_dash_vmx/Metro-TV2.mpd
+#http://watchlive.my.id/sa_dash_vmx/Metro-TV2.mpd
+https://cdn09jtedge.indihometv.com/dvr/139/metrotv/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
