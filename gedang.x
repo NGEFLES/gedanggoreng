@@ -12,7 +12,8 @@ https://cdn09jtedge.indihometv.com/dvr/139/metrotv/manifest.mpd
 #http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 #http://nonton.wap.sh/id/009.m3u8
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/02.m3u8
-https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png" group-title="Local",3 Indosiar
 #http://watchlive.my.id/indosiar/197
@@ -56,6 +57,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
 
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/GTV_(2017).svg/revision/latest/scale-to-width-down/200?cb=20180321091517" group-title="Local",10 GTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
