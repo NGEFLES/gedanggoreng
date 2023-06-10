@@ -356,8 +356,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" tvg-id="CartoonNetwork.id" tvg-name="Cartoon Network" group-title="Kids",Cartoon Network
-http://watchlive.my.id/sa_dash_vmx/CartoonNetwork.mpd
-
+http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/index.m3u8
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="Kids",Nick Jr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
