@@ -1259,4 +1259,22 @@ http://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 --------------------------------------------------------------------------------------------
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="spotv" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
+https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#EXTINF:-1 group-title="spotv" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV*
+https://anon.devds.site/link.php?hash=aHR0cDovL2RtdG4udHY6ODA4MC9saXZlL3VsdHJhc2VyNzIzL3FCUzlWZkU0dkMvMzcxNjk5LnRz
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="spotv" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
+https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:-1 group-title="spotv" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2*
+https://anon.devds.site/link.php?hash=aHR0cDovL2RtdG4udHY6ODA4MC9saXZlL3VsdHJhc2VyNzIzL3FCUzlWZkU0dkMvMzcxNzAwLnRz
+
+
+
 
