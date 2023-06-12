@@ -132,7 +132,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w429200424_b3884000_s
 
 #EXTINF:-1 tvg-id="" group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 #https://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
-https://anon.devds.site/link.php?hash=aHR0cDovL2lwdHZ0cmVlLm5ldDo4MDgwL0YxNzc0NC81b3Q4bkFxdWpJU1o3R2xNZ09uaUdDcUc4aExMajE2Ny8yOTg1NDYK|shareext@mentaritv.m3u8
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/24
 
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="Local",16 Moji
@@ -155,6 +155,8 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/mv2cSZz/Jitv-hometv.jpg" group-title="Local",JITV
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
+#EXTINF:0 tvg-id="TVRParlemen.id" tvg-logo="https://i.imgur.com/2XYpmHL.png"  group-title="Local",TVR Parlemen
+https://wowza.dpr.go.id/golive/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="Local" tvg-id="SEATODAY.id" tvg-logo="https://iptv.urfan.web.id/logo/seatodaytv.png",SEA TODAY
 https://cdn09jtedge.indihometv.com/dvr/139/seatoday/manifest.mpd
