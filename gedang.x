@@ -2,10 +2,10 @@ gedangGoreng123
 
 #Local
 
-#EXTINF:-1 tvg-id="" tvg-name="Informasi 1" tvg-logo="https://w7.pngwing.com/pngs/806/307/png-transparent-marketing-wi-fi-advertising-business-internet-marketing-text-service-logo.png" group-title="local",00
+#EXTINF:-1 tvg-id="" tvg-name="Informasi 1" tvg-logo="https://w7.pngwing.com/pngs/806/307/png-transparent-marketing-wi-fi-advertising-business-internet-marketing-text-service-logo.png" group-title="Local",00
 https://github.com/NGEFLES/gedanggoreng/raw/main/20230521-2130361.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Informasi 2" tvg-logo="https://www.smart-stb.net/wp-content/uploads/2021/09/logo@2x1.png" group-title="informasi",0
+#EXTINF:-1 tvg-id="" tvg-name="Informasi 2" tvg-logo="https://www.smart-stb.net/wp-content/uploads/2021/09/logo@2x1.png" group-title="Local",0
 https://github.com/NGEFLES/gedanggoreng/raw/main/20230521-2014071.mp4
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Local",1 Metro TV
