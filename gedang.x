@@ -1,6 +1,13 @@
 gedangGoreng123
 
 #Local
+
+#EXTINF:-1 tvg-id="" tvg-name="Informasi 1" tvg-logo="https://w7.pngwing.com/pngs/806/307/png-transparent-marketing-wi-fi-advertising-business-internet-marketing-text-service-logo.png" group-title="local",00
+https://github.com/NGEFLES/gedanggoreng/raw/main/20230521-2130361.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Informasi 2" tvg-logo="https://www.smart-stb.net/wp-content/uploads/2021/09/logo@2x1.png" group-title="informasi",0
+https://github.com/NGEFLES/gedanggoreng/raw/main/20230521-2014071.mp4
+
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Local",1 Metro TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
@@ -38,7 +45,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/transtv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
 https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://i0.wp.com/www.maxmanroe.com/wp-content/uploads/2015/03/Net-TV-Media-Elektronik-Indonesia.png?fit=603%2C206&ssl=1" group-title="Local",8 NET
+#EXTINF:0 tvg-logo="https://i0.wp.com/www.maxmanroe.com/wp-content/uploads/2015/03/Net-TV-Media-Elektronik-Indonesia.png?fit=603%2C206&ssl=1" group-title="Local",NET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
@@ -115,7 +122,7 @@ https://av-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=a7fd43751f24d64a16f6f4d289ebd395:2ef65773d541ccaf8ba61a3d141711f0
 https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
-#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png",15 CNN Indonesia
+#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
 #EXTINF:-1 group-title="Local" tvg-id="UseePrime.id" tvg-logo="https://iptv.urfan.web.id/logo/useeprime.png",Usee Prime
@@ -158,8 +165,7 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:0 tvg-id="TVRParlemen.id" tvg-logo="https://i.imgur.com/2XYpmHL.png"  group-title="Local",TVR Parlemen
 https://wowza.dpr.go.id/golive/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-id="SEATODAY.id" tvg-logo="https://iptv.urfan.web.id/logo/seatodaytv.png",SEA TODAY
-https://cdn09jtedge.indihometv.com/dvr/139/seatoday/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZVvSCxg/Pktv-hometv.jpg" tvg-name="NET" group-title="Local",PKTV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
@@ -195,11 +201,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 
 ===================================iklan
 
-#EXTINF:-1 tvg-id="" tvg-name="Informasi 1" tvg-logo="https://w7.pngwing.com/pngs/806/307/png-transparent-marketing-wi-fi-advertising-business-internet-marketing-text-service-logo.png" group-title="informasi",iklan 2
-https://github.com/NGEFLES/gedanggoreng/raw/main/20230521-2130361.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Informasi 2" tvg-logo="https://www.smart-stb.net/wp-content/uploads/2021/09/logo@2x1.png" group-title="informasi",iklan 1
-https://github.com/NGEFLES/gedanggoreng/raw/main/20230521-2014071.mp4
 
 ========================================================================
 ===LOKAL SERVER 2===========
