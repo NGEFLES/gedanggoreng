@@ -14,13 +14,13 @@ https://github.com/NGEFLES/gedanggoreng/raw/main/20230521-2014071.mp4
 https://cdn09jtedge.indihometv.com/dvr/139/metrotv/manifest.mpd
 
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/sctv" group-title="Local",2 SCTV
+#EXTINF:0 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fb/SCTV_Logo.svg.png/revision/latest?cb=20121226014247" group-title="Local",2 SCTV
 https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png" group-title="Local",3 Indosiar
 https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106" group-title="Local",4 Kompas TV
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-DVgvtt30dME/Tr8p3tqcoOI/AAAAAAAAH-U/TlrVGkQkYNA/s1600/kompas_tv_id.png" group-title="Local",4 Kompas TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
 https://cdn09jtedge.indihometv.com/dvr/139/kompastv/manifest.mpd
@@ -35,38 +35,38 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
 https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87" group-title="Local",6 Trans TV
+#EXTINF:0 tvg-logo="http://images1.wikia.nocookie.net/__cb20120824053509/logopedia/images/2/24/Trans-tv-1575255.png" group-title="Local",6 Trans TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
 https://cdn09jtedge.indihometv.com/dvr/139/transtv/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110" group-title="Local",7 Trans 7
+#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-HQ0BoR9WfbA/VM5wXxFjkoI/AAAAAAAAAG0/UIAegQIiXqU/s1600/trans7-amiz.png" group-title="Local",7 Trans 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
 https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_116.jpg" group-title="Local",NET
+#EXTINF:0 tvg-logo="https://i0.wp.com/www.maxmanroe.com/wp-content/uploads/2015/03/Net-TV-Media-Elektronik-Indonesia.png?fit=603%2C206&ssl=1" group-title="Local",NET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="Local",9 RCTI
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-KEJyj5w2VIU/Xlfc9DWsayI/AAAAAAAABqI/DmZKJ10dXCEy7goWu7XPLQDvdPhs_QquwCLcBGAsYHQ/s1600/Logo%2BRCTI.png" group-title="Local",9 RCTI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="Local",10 GTV
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/GTV_(2017).svg/revision/latest/scale-to-width-down/200?cb=20180321091517" group-title="Local",10 GTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="Local",11 MNC TV
+#EXTINF:0 tvg-logo="http://www.jobsmnc.co.id/Content/images/bu%202015/0201C.png" group-title="Local",11 MNC TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="Local",12 Inews
+#EXTINF:0 tvg-logo="https://img.uncyc.org/id/thumb/0/09/INews.png/300px-INews.png" group-title="Local",12 Inews
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
 https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000
@@ -76,12 +76,12 @@ https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd?o1=194575080&o2=19
 #KODIPROP:inputstream.adaptive.license_key=fbdbe252e6354b175852d1929c42d848:7a8bb14fcf8fd0b896ab41c29a78aae0
 https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_84.png" group-title="Local",MNC News
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-guC4bnwDWVo/XN1EBTyzz-I/AAAAAAAAn7I/TCfRmf4s0Bs_zsbJy5e_1rNd6vWE_rr9ACLcBGAs/s1600/mnc-news-tv-channel-logo.png" group-title="Local",MNC News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115" group-title="Local",13 ANTV
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d7/LOGO-ANTV-2017.png/revision/latest?cb=20170905192451" group-title="Local",13 ANTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
 https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd
@@ -91,17 +91,17 @@ https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=eb7c09e964e89e668266ea31f2710ffa:0a9832e32206fff46674b8210c9b6897
 https://cdn09jtedge.indihometv.com/dvr/139/daaitv/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_114" group-title="Local",RTV
+#EXTINF:0 tvg-logo="https://vignette4.wikia.nocookie.net/logo-timeline/images/5/53/RTV_Stacked_version.png/revision/latest?cb=20140826065953" group-title="Local",RTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
 https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_118" group-title="Local",TVRI Local
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-uG-pyEfAJoM/UWzu9EkARtI/AAAAAAAABjA/gbiw8BCNknI/s1600/tvri_logo.png" group-title="Local",TVRI Local
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca65af90adc5e3ddb180e16426bb67da:b6f87a3a128dbd75ead036f596edeae7
 https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_113" group-title="Local",JAK TV
+#EXTINF:0 tvg-logo="https://a.mailmunch.co/user_data/landing_pages/1511063645043-Jak_tv_Logo.png" group-title="Local",JAK TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2c9087e5432ce2c2f4ae8e1fd77ae4c:f7a50262991ca7d505fce1572a7f0c2a
 https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
@@ -1280,7 +1280,6 @@ https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 group-title="spotv" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2*
 https://anon.devds.site/link.php?hash=aHR0cDovL2RtdG4udHY6ODA4MC9saXZlL3VsdHJhc2VyNzIzL3FCUzlWZkU0dkMvMzcxNzAwLnRz
-
 
 
 
