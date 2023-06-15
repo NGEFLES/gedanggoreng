@@ -22,8 +22,8 @@ https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd
 https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-DVgvtt30dME/Tr8p3tqcoOI/AAAAAAAAH-U/TlrVGkQkYNA/s1600/kompas_tv_id.png" group-title="Local",4 Kompas TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #https://cdn09jtedge.indihometv.com/dvr/139/kompastv/manifest.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mp
 
