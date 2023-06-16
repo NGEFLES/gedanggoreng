@@ -1215,6 +1215,8 @@ https://d275e95ir6yrv9.cloudfront.net/dist/localnow/11/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https" group-title="SPORTS ID",Harley Davidson Factory TV
 https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https" group-title="SPORTS ID",TV Full Custom Garage
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e78faa05a0e200007a6f487/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -1222,4 +1224,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e78faa05
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0510962948d000961d3c6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=576&deviceId=5db0510962948d000961d3c6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 
+#EXTINF:-1 type="series" tvg-logo="https://i.ibb.co/L9s2z58/images.jpg" group-title="FILM BARU BOSS", FAST X FOURIOUS
+https://be4242.rcr52.ams03.cdn112.com/hls2/01/03995/mmtk4t5k996d_,n,h,.urlset/master.m3u8?t=29ptTsl0vHI-hmKztDVlByhzHRYdCuFtHtgvf-mVZv0&s=1686923464&e=43200&f=19976491&srv=15&asn=7713&sp=2000
 
