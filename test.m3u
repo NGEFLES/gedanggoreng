@@ -1,5 +1,5 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.kalinggap1.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://bungkus.dumbo-tv.my.id/mpd/cubmu.mpd?id=4028c68572841ba301729ce2a0d83c16&amp;andi=5
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://gramediaacademy.com/website/images/customer/kompas-tv-12160517022022.png" group-title="TV Nasional",Kompas TV
 https://bungkus.dumbo-tv.my.id/mpd/cubmu.mpd?id=4028c68572841ba301729ce2a0d83c16&amp;andi=5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
