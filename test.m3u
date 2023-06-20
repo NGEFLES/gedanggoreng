@@ -1,4 +1,4 @@
-<body>#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.kalinggap1.workers.dev/
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://gramediaacademy.com/website/images/customer/kompas-tv-12160517022022.png" group-title="TV Nasional",Kompas TV
 https://bungkus.dumbo-tv.my.id/mpd/cubmu.mpd?id=4028c68572841ba301729ce2a0d83c16&amp;andi=5
@@ -1160,4 +1160,4 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-4
 #KODIPROP:inputstream.adaptive.license_key=https://joytesvid-41ee507ef284.herokuapp.com/drm.php?id=7502671
 #EXTINF:0 tvg-id="TRANS TV" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/05/INDOSIAR_Logo_3.png/revision/latest?cb=20150703091358" group-title="TEST",INDO00
 https://joytesvid-41ee507ef284.herokuapp.com/tokenhls.m3u8?id=7502671
-</body>
+
