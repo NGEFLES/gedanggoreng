@@ -144,9 +144,7 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w429200424_b3884000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
-#https://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/24
-
+https://app-etslive-2.vidio.com/live/8237/master.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="Local",16 Moji
 #http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
@@ -168,8 +166,7 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/mv2cSZz/Jitv-hometv.jpg" group-title="Local",JITV
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
-#EXTINF:0 tvg-id="TVRParlemen.id" tvg-logo="https://i.imgur.com/2XYpmHL.png"  group-title="Local",TVR Parlemen
-https://wowza.dpr.go.id/golive/livestream/playlist.m3u8
+
 
 
 
@@ -346,13 +343,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://i.ibb.co/HXz99JF/Aniplus-hometv.jpg" group-title="Kids",ANIPLUS
-http://rr1.dens.tv/h/h02/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ANIPLUS_HD
+http://210.210.155.37/dr9445/h/h02/index.m3u8
 #http://watchlive.my.id/aniplus/1070
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-#EXTINF:-14  group-title="Kids" tvg-logo="https://mobiletv.mobibase.com/html/logo/hd/channel_ld_724.png",CARTOON TV CLASSIC
-http://watchlive.my.id/4028c685840ff0490184560100c34363/manifest.mpd
+
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/Animax_150x150.png" group-title="Kids",Animax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -364,7 +358,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #KODIPROP:inputstream.adaptive.license_key=194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
 https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.jpg" group-title="Kids",Boomerang South East Asia
+#EXTINF:0 tvg-logo="https://i.ibb.co/LpnWh2x/bef9c5fe49e0dc6d75cdcbccc018838c-modified.png" group-title="Kids",Boomerang South East Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
 https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
