@@ -225,8 +225,8 @@ http://starshare.live:8080/live/10273710838302/376302948448/151256.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/3FH3W8G/Indosiar-hometv.png" group-title="SERVER 2 LOKAL",1.INDOSIAR
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
-https://deptokv1.herokuapp.com/index.m3u8?id=205
-
+#https://deptokv1.herokuapp.com/index.m3u8?id=205
+https://app-etslive-2.vidio.com/live/205/master.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
@@ -234,7 +234,8 @@ https://deptokv1.herokuapp.com/index.m3u8?id=205
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
 http://rr2.dens.tv/s/s03/index.m3u8
-https://deptokv1.herokuapp.com/play.mpd?id=204
+https://app-etslive-2.vidio.com/live/204/master.m3u8
+#https://deptokv1.herokuapp.com/play.mpd?id=204
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
