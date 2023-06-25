@@ -214,12 +214,14 @@ http://watchlive.my.id/thYAg86ShLywX9FL/298550
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/Dp10Ydf/Trans7-hometv.png" group-title="SERVER 2 LOKAL",1.TRANS 7
-http://watchlive.my.id/sa_dash_vmx/Trans7-2.mpd
+#http://watchlive.my.id/sa_dash_vmx/Trans7-2.mpd
+https://app-etslive-2.vidio.com/live/734/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/6NSqzbC/Transtv-hometv.png" group-title="SERVER 2 LOKAL",1.TRANS TV
-http://starshare.live:8080/live/10273710838302/376302948448/151256.m3u8
+#http://starshare.live:8080/live/10273710838302/376302948448/151256.m3u8
+https://app-etslive-2.vidio.com/live/733/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
