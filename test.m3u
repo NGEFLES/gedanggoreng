@@ -1,10 +1,6 @@
 #EXTINF:-1 tvg-id="",tes204
 https://app-etslive-2.vidio.com/live/204/master.m3u8
-
-#EXTINF:-1 tvg-id="",tes205
 https://app-etslive-2.vidio.com/live/205/master.m3u8
-
-#EXTINF:-1 tvg-id="",tes206
 https://app-etslive-2.vidio.com/live/206/master.m3u8
 https://app-etslive-2.vidio.com/live/733/master.m3u8
 https://app-etslive-2.vidio.com/live/734/master.m3u8
