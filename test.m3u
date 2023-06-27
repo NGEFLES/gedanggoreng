@@ -1,6 +1,5 @@
 #EXTINF:-1 tvg-id="",tes202
-https://nyanv-live-cdn.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
-https://nyanv-live-cdn.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
+https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd
 #EXTINF:-1 tvg-id="",tes2024
 https://app-etslive-2.vidio.com/live/204/master.m3u8
 https://app-etslive-2.vidio.com/live/205/master.m3u8
