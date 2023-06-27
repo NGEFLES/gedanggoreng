@@ -203,7 +203,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
 #EXTINF:-1 group-title="Local" tvg-id="UseePrime.id" tvg-logo="https://iptv.urfan.web.id/logo/useeprime.png",Usee Prime
-https://cdn09jtedge.indihometv.com/dvr/139/useeprime/manifest.mpd
+https://cdn09jtedge.indihometv.com/dvr/139/useeprime/manifest.mpd?o1=781141220&o2=781141220&o3=781141220&o4=781141220&o5=230000023&oa=230000023
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
@@ -226,7 +226,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #EXTINF:-1 group-title="Local" tvg-id="Antara.id" tvg-logo="https://i.imgur.com/AiCWRg1.png",Antara TV
-https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
+https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd?o1=665195080&o2=665195000&o3=665195000&o4=665195000&oa=665195000
 
 #EXTINF:-1 tvg-id="" group-title="Local" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxxHJtp-efNh9M9-IaOHq-p42mxjw6pnvoTQ&usqp=CAU", The Indonesia Channel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
@@ -271,7 +271,7 @@ http://watchlive.my.id/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 http://watchlive.my.id/sa_dash_vmx/OKTV.mpd
 
 #EXTINF:-1 group-title="Local" tvg-id="RRINet.id" tvg-logo="https://iptv.urfan.web.id/logo/rrinet.png",RRI NET
-https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
+https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd?o1=643589080&o2=643589000&o3=643589000&o4=643589000&oa=643589000
 
 ===================================iklan
 
@@ -299,7 +299,7 @@ https://app-etslive-2.vidio.com/live/733/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/3FH3W8G/Indosiar-hometv.png" group-title="SERVER 2 LOKAL",1.INDOSIAR
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 #https://deptokv1.herokuapp.com/index.m3u8?id=205
-https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
+https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd?o1=780974999&o2=780974999&o3=780974999&o4=780974999&oa=780974999
 
 
 
@@ -307,8 +307,8 @@ https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.ibb.co/BzXmZL7/Sctv-hometv.png" group-title="SERVER 2 LOKAL",1.SCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
-http://rr2.dens.tv/s/s03/index.m3u8
-
+#http://rr2.dens.tv/s/s03/index.m3u8
+https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd?o1=781197779&o2=781197779&o3=781197779&o4=781197779&o5=781197779&oa=781197779
 #https://deptokv1.herokuapp.com/play.mpd?id=204
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
