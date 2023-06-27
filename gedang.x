@@ -16,10 +16,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 
 #EXTINF:0 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fb/SCTV_Logo.svg.png/revision/latest?cb=20121226014247" group-title="Local",2 SCTV
-https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd
+https://app-etslive-2.vidio.com/live/204/master.m3u8
+#https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png" group-title="Local",3 Indosiar
-https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
+https://app-etslive-2.vidio.com/live/205/master.m3u8
+
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-DVgvtt30dME/Tr8p3tqcoOI/AAAAAAAAH-U/TlrVGkQkYNA/s1600/kompas_tv_id.png" group-title="Local",4 Kompas TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -227,9 +229,10 @@ https://app-etslive-2.vidio.com/live/733/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/3FH3W8G/Indosiar-hometv.png" group-title="SERVER 2 LOKAL",1.INDOSIAR
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 #https://deptokv1.herokuapp.com/index.m3u8?id=205
-https://app-etslive-2.vidio.com/live/205/master.m3u8
+https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
@@ -237,7 +240,7 @@ https://app-etslive-2.vidio.com/live/205/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
 http://rr2.dens.tv/s/s03/index.m3u8
-https://app-etslive-2.vidio.com/live/204/master.m3u8
+
 #https://deptokv1.herokuapp.com/play.mpd?id=204
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
