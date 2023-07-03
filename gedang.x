@@ -70,10 +70,7 @@ gedangGoreng123
 
 #Local
 
-#EXTINF:-1 tvg-id="" tvg-name="Informasi 1" tvg-logo="https://w7.pngwing.com/pngs/806/307/png-transparent-marketing-wi-fi-advertising-business-internet-marketing-text-service-logo.png" group-title="Local",00
-https://github.com/NGEFLES/gedanggoreng/raw/main/20230521-2130361.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Informasi 2" tvg-logo="https://www.smart-stb.net/wp-content/uploads/2021/09/logo@2x1.png" group-title="Local",0
+#EXTINF:-1 tvg-id="" tvg-name="Informasi 2" tvg-logo="https://hypeabis.id/assets/content/20230221184930000000Pisang1.jpeg" group-title="Local",0
 https://github.com/NGEFLES/gedanggoreng/raw/main/20230521-2014071.mp4
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Local",1 Metro TV
@@ -118,7 +115,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-#EXTINF:0 tvg-logo="https://i0.wp.com/www.maxmanroe.com/wp-content/uploads/2015/03/Net-TV-Media-Elektronik-Indonesia.png?fit=603%2C206&ssl=1" group-title="Local",NET
+#EXTINF:0 tvg-logo="https://i0.wp.com/www.maxmanroe.com/wp-content/uploads/2015/03/Net-TV-Media-Elektronik-Indonesia.png?fit=603%2C206&ssl=1" group-title="Local",16 NET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
