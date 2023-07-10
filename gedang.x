@@ -81,12 +81,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 
 #EXTINF:0 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fb/SCTV_Logo.svg.png/revision/latest?cb=20121226014247" group-title="Local",2 SCTV
-https://app-etslive-2.vidio.com/live/204/master.m3u8
+#https://app-etslive-2.vidio.com/live/204/master.m3u8
 #https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png" group-title="Local",3 Indosiar
-https://app-etslive-2.vidio.com/live/205/master.m3u8
-
+#https://app-etslive-2.vidio.com/live/205/master.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-DVgvtt30dME/Tr8p3tqcoOI/AAAAAAAAH-U/TlrVGkQkYNA/s1600/kompas_tv_id.png" group-title="Local",4 Kompas TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
