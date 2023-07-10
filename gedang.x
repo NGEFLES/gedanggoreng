@@ -1432,3 +1432,42 @@ https://webudit.cdnhks.lol/lb/premium114/index.m3u8|referer=https://widevine.lic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:0 tvg-id="" tvg-logo="https://th.bing.com/th/id/R.5cc88e90db0380962f5512ec1d72bf93?rik=rq8UXhs7CHToXQ&amp;riu=http%3a%2f%2flogonoid.com%2fimages%2ftsn-logo.png&amp;ehk=4kgY88qIKSfvhaX6Dn610fot%2f7dRVaU%2br%2bJ1DY%2b9EoA%3d&amp;risl=&amp;pid=ImgRaw&amp;r=0" group-title="Sport", TSN 5
 https://webudit.cdnhks.lol/lb/premium115/index.m3u8|referer=https://widevine.licenses4.me/
+
+
+=====
+#EXTINF:-1   tvg-logo="" group-title="FILM BOS",🇺🇸GUARDIAN•OF•GALAXY•VOL•3_2023_dec=native
+https://be7713.rcr82.waw05.cdn112.com/hls2/01/04157/gd5bs4wpxb7m_,n,x,.urlset/master.m3u8?t=nki06UxMYSOaFR9vhefSPn2qbfGsmbz_4at-8RItd8I&s=1688960982&e=43200&f=20785513&srv=23&asn=23693&sp=2500
+#EXTINF:-1   tvg-logo="" group-title="FILM BOS",🇺🇸Transformer•rise.of.t.beast•2023_dec=native
+https://be4235.rcr32.ams02.cdn112.com/hls2/01/04003/nqetyzgktiex_n/master.m3u8?t=MJ5LVrxr44Fj4WF-22RAaQNxTpkB8SelC7OpvYQiZQk&s=1688966436&e=43200&f=20018888&srv=22&asn=23693&sp=2000
+#EXTINF:-1   tvg-logo="" group-title="FILM BOS",🇩🇪JOHN•WICK•C•4_2023_dec=native
+https://be4242.rcr52.ams03.cdn112.com/hls2/01/03974/y9urtyqdi1dn_,n,h,.urlset/master.m3u8?t=XGq72ziKYRBiTAOKKtReG75H1VramjaCOHF0VaRwUEs&s=1688966961&e=43200&f=19872647&srv=23&asn=23693&sp=2000
+#EXTINF:-1   tvg-logo="" group-title="FILM BOS",🇮🇳RAAGHU_2023_dec=native
+https://be6721.rcr72.waw04.cdn112.com/hls2/02/03979/3didxfb2qzqg_,n,h,.urlset/master.m3u8?t=6BuglPQHzacUdxIKwSy1Dto8n0Q-Tm0yG6b_pgf9pbU&s=1688967131&e=43200&f=19899222&srv=26&asn=23693&sp=2000
+#EXTINF:-1   tvg-logo="" group-title="FILM BOS",🇰🇷T•ROUNDUP•NO WAY OUT_2023_dec=native
+https://be7713.rcr82.waw05.cdn112.com/hls2/01/04168/uy7ey22ckcks_,n,h,.urlset/master.m3u8?t=SJmVIXOj-N8JniwjPyxKa0jjal6w-IIsH5IP7PdLZUQ&s=1688967399&e=43200&f=20844570&srv=14&asn=23693&sp=2000
+#EXTINF:-1   tvg-logo="" group-title="FILM BOS",🇲🇾HEAD•HUNTER_2023_dec=native
+https://be4242.rcr52.ams03.cdn112.com/hls2/01/04157/yqk5dntvhz7d_,n,h,.urlset/master.m3u8?t=GatvRDeadJ28VlwxNTC5wDzDFVXhcckkaNLQPRyiqBE&s=1688967541&e=43200&f=20789383&srv=09&asn=23693&sp=2000
+#EXTINF:-1   tvg-logo="" group-title="FILM BOS",🇺🇸FAST•X_2023_dec=native
+https://be7713.rcr82.waw05.cdn112.com/hls2/01/03995/mmtk4t5k996d_,n,h,.urlset/master.m3u8?t=Ay-8-ZEsy3jfkmyd23Wf-A984GEKXAApCzuXpjJ2uvQ&s=1688967689&e=43200&f=19976491&srv=15&asn=23693&sp=2000
+#EXTINF:-1   tvg-logo="" group-title="FILM BOS",🇲🇫AKA_2023_dec=native
+https://be4242.rcr52.ams03.cdn112.com/hls2/01/03669/ff7a7h15pmoq_,n,x,.urlset/master.m3u8?t=OUuS8m-RcyUiY7zXZcru4oeCyclBLw6XFHBds1MYswU&s=1688968237&e=43200&f=18349355&srv=07&asn=23693&sp=2500
+#EXTINF:-1   tvg-logo="" group-title="FILM BOS",🇨🇳Drunken•Fist_2023_dec=native
+https://be4235.rcr32.ams02.cdn112.com/hls2/01/03693/ql5ef96ayobh_,n,h,.urlset/master.m3u8?t=kHNR7Qlfo3ZQHgqbueXhMmnCC1yEmVKtLW07Zqw_yxU&s=1688970898&e=43200&f=18466974&srv=13&asn=23693&sp=2000
+#EXTINF:-1   tvg-logo="" group-title="FILM BOS",🇺🇸PeterPan & Wendy_2023_dec=native
+https://be7713.rcr82.waw05.cdn112.com/hls2/01/03671/op2qdzfzdz2a_,n,x,.urlset/master.m3u8?t=5Z5q-B-1GQO_SUOP0ESf5nevNsMGiKu561vaFe_v6dE&s=1688971218&e=43200&f=20786558&srv=10&asn=23693&sp=2500
+#EXTINF:-1   tvg-logo="" group-title="FILM BOS",🇺🇸Power•Ranger_once&always_2023_dec=native
+https://be4242.rcr52.ams03.cdn112.com/hls2/01/03552/3u6iih3q25qi_,n,x,.urlset/master.m3u8?t=H8kcv6MIGzdFxvdN59X9SEhx3mlkUGtRzeDkeDbJDp8&s=1688971388&e=43200&f=17764993&srv=22&asn=23693&sp=2500
+#EXTINF:-1   tvg-logo="" group-title="FILM BOS",🇮🇳DASARA_2023_dec=native
+https://be4235.rcr32.ams02.cdn112.com/hls2/01/03651/27lgn3dpm5e8_,n,x,.urlset/master.m3u8?t=Afgz3b-K0okR1VkJYoVTpmM1Dv1xEj3Wj0RcgUdwl5U&s=1688971556&e=43200&f=18257453&srv=07&asn=23693&sp=2500
+#EXTINF:-1   tvg-logo="" group-title="FILM BOS",🇨🇳WILD•GHOST_2023_dec=native
+https://be4242.rcr52.ams03.cdn112.com/hls2/01/03680/ooyz2ectnb1n_,n,h,.urlset/master.m3u8?t=mEaqqvEUsmQuHWUG7aHpif13Mu4tawViTfV4Iu8752Y&s=1688971657&e=43200&f=18403654&srv=18&asn=23693&sp=2000
+#EXTINF:-1   tvg-logo="" group-title="FILM BOS",🇨🇳Master•Of.T.Jungling_2023_dec=native
+https://be4235.rcr32.ams02.cdn112.com/hls2/01/03693/49zribksom75_,n,h,.urlset/master.m3u8?t=Us-bJ7ly8lT3w-U7cSEqWMzD8MSiXY4EVoxVOHJgTvY&s=1688971874&e=43200&f=18468089&srv=23&asn=23693&sp=2000
+#EXTINF:-1   tvg-logo="" group-title="FILM BOS",🇨🇳True&False•Jigong_2023_dec=native
+https://be4235.rcr32.ams02.cdn112.com/hls2/01/03703/yp94z9nt42uf_,n,h,.urlset/master.m3u8?t=MV9Vpk88gJjm5A4T2aeHfMUMqkpJ0GhF2bD9WNNrTx0&s=1688971961&e=43200&f=18518341&srv=21&asn=23693&sp=2000
+#EXTINF:-1   tvg-logo="" group-title="FILM BOS",🇨🇳Monster•Of•T•Deep_2023_dec=native
+https://be2719.rcr22.ams01.cdn112.com/hls2/01/03706/5uxt1gjmy883_,n,h,.urlset/master.m3u8?t=xBnpxyn5jqrkdqHZDwfxai9mm9kGqYx3KSqbCWqsClQ&s=1688972062&e=43200&f=18533537&srv=20&asn=23693&sp=2000
+#EXTINF:-1   tvg-logo="" group-title="FILM BOS",🇨🇦The•Flash_2023_dec=native
+https://be6721.rcr72.waw04.cdn112.com/hls2/01/04040/bhgctlmbg17g_,n,h,.urlset/master.m3u8?t=wRfGeq6sPuZVQxTbTGVlLoscLolFZKdpcpz-apDepy0&s=1688972693&e=43200&f=20201698&srv=20&asn=23693&sp=2000
+#EXTINF:-1   tvg-logo="" group-title="FILM BOS",🇭🇰SAKRA_2023_dec=native
+https://be7713.rcr82.waw05.cdn112.com/hls2/02/03116/p7j71o5m36p8_,n,h,.urlset/master.m3u8?t=ZUnR5kz2Ie73Q03IJiYEpIn6Nfe1A1w3HoJMAlNUzrI&s=1688973007&e=43200&f=15583949&srv=28&asn=23693&sp=2000
