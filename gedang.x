@@ -213,7 +213,8 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w429200424_b3884000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
-https://app-etslive-2.vidio.com/live/8237/master.m3u8
+#https://app-etslive-2.vidio.com/live/8237/master.m3u8
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880796
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="Local",16 Moji
 #http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
