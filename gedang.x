@@ -424,8 +424,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/balitv/manifest.mpd?o1=1408293234&o2=
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://i.ibb.co/HXz99JF/Aniplus-hometv.jpg" group-title="Kids",ANIPLUS
-http://210.210.155.37/dr9445/h/h02/index.m3u8
-#http://watchlive.my.id/aniplus/1070
+https://av-live-cdn.mncnow.id/live/eds/Aniplus/sa_dash_vmx/Aniplus.mpd
 
 
 
@@ -447,7 +446,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" tvg-id="CartoonNetwork.id" tvg-name="Cartoon Network" group-title="Kids",Cartoon Network
-http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/index.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/index.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="Kids",Nick Jr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
