@@ -1,0 +1,26 @@
+<html>
+<body>
+ 
+ 
+</body>
+  
+<script>
+  const readTxt = async() => {
+    let url = "https://raw.githubusercontent.com/NGEFLES/gedanggoreng/main/gedang.x";
+    let response = await fetch (url);
+    const txt = await response.text().then(( str ) => {
+        return str.split('\r');
+    });
+    
+    let result = txt;
+document.write(txt);
+	
+  }
+
+  readTxt ();
+function myFunction() {
+  location.replace("https://www.w3schools.com")
+}
+myFunction()
+</script>
+</html>
