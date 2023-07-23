@@ -6,7 +6,7 @@
   
 <script>
   const readTxt = async() => {
-    let url = "https://raw.githubusercontent.com/NGEFLES/gedanggoreng/main/gedang.x";
+    let url = "https://raw.githubusercontent.com/NGEFLES/gedanggoreng/main/gedang.g";
     let response = await fetch (url);
     const txt = await response.text().then(( str ) => {
         return str.split('\r');
