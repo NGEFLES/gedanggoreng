@@ -531,7 +531,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm8xqP7F21lrtTR9SXsiaCA4pX9t_cHki0mHbXmFFzjHn-NTOJARsQyK5YT_RtjNyS8qc&usqp=CAU" group-title="Kids",Hip Hip Horee
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856b8d2390016b9c3ee6c21d7c/7c50a62b82824becb976b7fd671fa5cd.jpg" group-title="Kids",Cartoon Network 
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856b8d2390016b9c3ee6c21d7c/7c50a62b82824becb976b7fd671fa5cd.jpg" group-title="Kids",Cartoon Network s
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
@@ -553,7 +553,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=ZWMzNDU2ZWIzZDc4YTNkZTAvb0pONVozbS8vL0dBT2dhV09Sam42UU9tbnNtNkdxd0VNRTZ4em0wamhFSlBpbkZnNkYxWE9OUFRoc1ZCRDRDS2JSN3dEQ2g5dGl2NGIvUk0yZnB1SjhsYW9EbTVjaC84MXQwRWdERlVKQVkyTWtvSytqS3JscHorbXRlK3BX
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" tvg-id="CartoonNetwork.id" tvg-name="Cartoon Network" group-title="Kids",Cartoon Network
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" tvg-id="CartoonNetwork.id" tvg-name="Cartoon Network" group-title="Kids",Cartoon Network q
 https://cdn.renotv.my.id/go/playt/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="Kids",Nick Jr
