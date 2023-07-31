@@ -13,20 +13,7 @@ alert('yes');
 
 }else{
 alert('no');
-
-const readTxt = async() => {
-    let url = "https://raw.githubusercontent.com/NGEFLES/gedanggoreng/main/gedang.x";
-    let response = await fetch (url);
-    const txt = await response.text().then(( str ) => {
-        return str.split('\r');
-    });
-    
-    let result = txt;
-document.getElementById("qq").innerHTML=txt;
-	
-  }
-
-  readTxt ();
+  location.replace("https://raw.githubusercontent.com/NGEFLES/gedanggoreng/main/gedang.x");
 }
 
 </script>
