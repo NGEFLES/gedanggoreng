@@ -9,7 +9,12 @@ let ii = 'OTT Navigator/1.6.9.1 (Linux;Android 12; in; 16tq4lc)'
 //console.log(agent);
 if (agent == ii) {
 alert('yes');
- 	const readTxt = async() => {
+ 	
+
+}else{
+alert('no');
+
+const readTxt = async() => {
     let url = "https://raw.githubusercontent.com/NGEFLES/gedanggoreng/main/gedang.x";
     let response = await fetch (url);
     const txt = await response.text().then(( str ) => {
@@ -22,11 +27,6 @@ document.getElementById("qq").innerHTML=txt;
   }
 
   readTxt ();
-
-}else{
-alert('no');
-
-
 }
 
 </script>
