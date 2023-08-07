@@ -1,4 +1,4 @@
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",SCTV
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",Indosiar
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_205_720p/index.m3u8
+#EXTINF:-1,group-title="zaman now",INDOSIAR
+ http://ez-tracker.net/tv/Indosiar
+#EXTINF:-1,group-title="zaman now",INDOSIAR 2
+ http://ez-tracker.net/tv/Indosiar_2
