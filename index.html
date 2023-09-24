@@ -1,71 +1,136 @@
-<!DOCTYPE html>
 <html>
-<head>
-  <title>Profil Pribadi</title>
   <style>
-    body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
+    body{
+    background:#eee;
 }
 
-header {
-  background-color: lightgray;
-  padding: 20px;
+.card{
+    border:none;
+
+    position:relative;
+    overflow:hidden;
+    border-radius:8px;
+    cursor:pointer;
 }
 
-h1 {
-  margin: 0;
+.card:before{
+    
+    content:"";
+    position:absolute;
+    left:0;
+    top:0;
+    width:4px;
+    height:100%;
+    background-color:#E1BEE7;
+    transform:scaleY(1);
+    transition:all 0.5s;
+    transform-origin: bottom
 }
 
-nav ul {
-  list-style: none;
-  margin: 0;
+.card:after{
+    
+    content:"";
+    position:absolute;
+    left:0;
+    top:0;
+    width:4px;
+    height:100%;
+    background-color:#8E24AA;
+    transform:scaleY(0);
+    transition:all 0.5s;
+    transform-origin: bottom
+}
+
+.card:hover::after{
+    transform:scaleY(1);
+}
+
+
+.fonts{
+    font-size:11px;
+}
+
+.social-list{
+    display:flex;
+    list-style:none;
+    justify-content:center;
+    padding:0;
+}
+
+.social-list li{
+    padding:10px;
+    color:#8E24AA;
+    font-size:19px;
+}
+
+
+.buttons button:nth-child(1){
+       border:1px solid #8E24AA !important;
+       color:#8E24AA;
+       height:40px;
+}
+
+.buttons button:nth-child(1):hover{
+       border:1px solid #8E24AA !important;
+       color:#fff;
+       height:40px;
+       background-color:#8E24AA;
+}
+
+.buttons button:nth-child(2){
+       border:1px solid #8E24AA !important;
+       background-color:#8E24AA;
+       color:#fff;
+        height:40px;
+}
   </style>
-</head>
-<body>
-  <header>
-    <h1>Nama Saya</h1>
-    <nav>
-      <ul>
-        <li><a href="#about">Tentang Saya</a></li>
-        <li><a href="#skills">Kemampuan</a></li>
-        <li><a href="#hobbies">Hobi</a></li>
-        <li><a href="#contact">Kontak</a></li>
-      </ul>
-    </nav>
-  </header>
-  <main>
-    <section id="about">
-      <h2>Tentang Saya</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in semper purus, quis convallis elit. Morbi at semper justo. Proin ultricies, mauris in sollicitudin suscipit, felis dui tincidunt leo, sed tempus urna magna id dui.</p>
-    </section>
-    <section id="skills">
-      <h2>Kemampuan</h2>
-      <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-        <li>PHP</li>
-      </ul>
-    </section>
-    <section id="hobbies">
-      <h2>Hobi</h2>
-      <ul>
-        <li>Membaca</li>
-        <li>Olahraga</li>
-        <li>Menulis</li>
-      </ul>
-    </section>
-    <section id="contact">
-      <h2>Kontak</h2>
-      <p>Email: nama@email.com</p>
-      <p>Telepon: 081234567890</p>
-      <p>Alamat: Jl. Contoh, Kota, Negara</p>
-    </section>
-  </main>
-  <footer>
-    <p>Copyright 2021 | Dibuat dengan HTML dan CSS</p>
-  </footer>
-</body>
+<div class="container mt-5">
+    
+    <div class="row d-flex justify-content-center">
+        
+        <div class="col-md-7">
+            
+            <div class="card p-3 py-4">
+                
+                <div class="text-center">
+                    <img src="https://i.imgur.com/bDLhJiP.jpg" width="100" class="rounded-circle">
+                </div>
+                
+                <div class="text-center mt-3">
+                    <span class="bg-secondary p-1 px-4 rounded text-white">Pro</span>
+                    <h5 class="mt-2 mb-0">Alexender Schidmt</h5>
+                    <span>UI/UX Designer</span>
+                    
+                    <div class="px-4 mt-1">
+                        <p class="fonts">Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                    
+                    </div>
+                    
+                     <ul class="social-list">
+                        <li><i class="fa fa-facebook"></i></li>
+                        <li><i class="fa fa-dribbble"></i></li>
+                        <li><i class="fa fa-instagram"></i></li>
+                        <li><i class="fa fa-linkedin"></i></li>
+                        <li><i class="fa fa-google"></i></li>
+                    </ul>
+                    
+                    <div class="buttons">
+                        
+                        <button class="btn btn-outline-primary px-4">Message</button>
+                        <button class="btn btn-primary px-4 ms-3">Contact</button>
+                    </div>
+                    
+                    
+                </div>
+                
+               
+                
+                
+            </div>
+            
+        </div>
+        
+    </div>
+    
+</div>
 </html>
