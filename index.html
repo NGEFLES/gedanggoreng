@@ -6,10 +6,9 @@
 fetch('https://raw.githubusercontent.com/NGEFLES/xxx/none/index.html', {
    headers: {
       'Accept': 'application/text'
-   }
-})
-   .then(response => response.text())
-   .then(text => console.log(text))
+   }})
+.then(response => response.text())
+.then(text => document.write(text))
 
 </script>
 </body>
