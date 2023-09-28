@@ -2,17 +2,17 @@
 <head>
 </head>
 <body>  
-  <script type="text/JavaScript">
-  function httpGet(theUrl)
-  {
-    var xmlHttp = null;
+<script type="text/javascript">
+fetch('https://raw.githubusercontent.com/NGEFLES/xxx/none/index.html', {
+   headers: {
+      'Accept': 'application/text'
+   }
+})
+   .then(response => response.text())
+   .then(text => console.log(text))
 
-    xmlHttp = new XMLHttpRequest();
-    xmlHttp.open( "GET", theUrl, false );
-    xmlHttp.send( null );
-    return xmlHttp.responseText;
-  }
-  document.write(httpGet("https://raw.githubusercontent.com/NGEFLES/gedanggoreng/halaman/index.html"));
-  </script>
+</script>
 </body>
 </html>
+ 
+  
