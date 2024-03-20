@@ -452,6 +452,7 @@ https://tch.qtv.my.id/duniagames.mpd|user-agent=mozilla/89 ExoPlayerLib
 https://tch.qtv.my.id/inews.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
 #EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gtjsxfs0wqq1nwptb7knz1zg.jpg" group-title="Nasional", JTV HD
+#EXTVLCOPT:http-user-agent=mozilla/89
 https://qtv-ku.my.id/chiptv/jtv/index.php|user-agent=mozilla/89 ExoPlayerLib
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -677,6 +678,7 @@ https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/index.m3u8|user-agent=mozilla
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/index.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
 #EXTINF:-1 tvg-logo="https://indotv.fandom.com/wiki/Special:FilePath/Trans_7_2013.png" group-title="Nasional", TRANS 7 HD
+#EXTVLCOPT:http-user-agent=mozilla/89
 https://tch.qtv.my.id/trans7.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
