@@ -452,7 +452,7 @@ https://tch.qtv.my.id/duniagames.mpd|user-agent=mozilla/89 ExoPlayerLib
 https://tch.qtv.my.id/inews.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
 #EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gtjsxfs0wqq1nwptb7knz1zg.jpg" group-title="Nasional", JTV HD
-#EXTVLCOPT:http-user-agent=mozilla/89 ExoPlayerLib
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.1 (Linux;Android 13; in; 16tq4lc)
 https://qtv-ku.my.id/chiptv/jtv/index.php|user-agent=mozilla/89 ExoPlayerLib
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
